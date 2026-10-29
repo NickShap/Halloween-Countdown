@@ -27,14 +27,14 @@
 }
 
 .content {
-    top: 30%;
+    top: 50%;
     position: absolute;
     transform: translateY(-50%);
     color: #fff;
 }
 
 .content h1 {
-    font-size: 64px;
+    font-size: 80px;
     font-weight: 600;
 }
 
@@ -52,7 +52,7 @@
 }
 
 .countdown-time div p {
-    font-size: 60px;
+    font-size: 80px;
     margin-bottom: -5px;
 }
 
