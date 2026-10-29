@@ -13,7 +13,7 @@
 .container {
     width: 100vw;
     height: 100vh;
-    background-image: url("../img/Background-IMG.avif");
+    background-image: url("../img/duh.jpg");
     background-position: center;
     background-size: cover;
     padding: 0 8%;
@@ -39,7 +39,7 @@
 }
 
 .content h1 span {
-    color: rgb(87, 66, 39);
+    color: rgb(179, 161, 82);
 
 }
 
